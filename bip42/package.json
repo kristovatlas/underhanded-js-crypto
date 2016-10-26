@@ -1,0 +1,15 @@
+{
+  "name": "bip42-big-integer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "vulnerable-bigint.js",
+  "dependencies": {
+    "big-integer": "^1.6.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
